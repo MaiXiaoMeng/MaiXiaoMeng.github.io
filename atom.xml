@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>麦小萌的小天地</title>
+  
+  <subtitle>感觉自己萌萌哒</subtitle>
+  <link href="https://www.xiaomeng.live/atom.xml" rel="self"/>
+  
+  <link href="https://www.xiaomeng.live/"/>
+  <updated>2021-06-03T15:28:45.682Z</updated>
+  <id>https://www.xiaomeng.live/</id>
+  
+  <author>
+    <name>MaiXiaoMeng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>收拾收拾,重新出发</title>
+    <link href="https://www.xiaomeng.live/pack-up-and-start-again"/>
+    <id>https://www.xiaomeng.live/pack-up-and-start-again</id>
+    <published>2021-06-03T14:35:45.000Z</published>
+    <updated>2021-06-03T15:28:45.682Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知不觉，已经是今年的六月份了，时间过得飞快，在上个月结束了两年的亚马逊运营工作。五月中旬参加了初级会计职业资格证的考试，现在还不知到成绩，希望有个好成绩吧。</p><a id="more"></a><p>接下来每周都会要求自己写个周总结，主要有两个作用:<br>第一个是通过输出来巩固已学的知识，有些东西看过了，以为自己懂了，理解了，殊不知一遇到相似的问题还是会手忙脚乱，这就是传说中的“以为自己懂了”<br>第二个是通过每周要写总结来倒逼自己去学习，去行动，不然一周下来发现自己啥也没干岂不是很没面子。</p><p>另外就是整理一下做亚马逊运营两年以来遇到的问题并记录下来，所以我又重新启用的我这个博客。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;不知不觉，已经是今年的六月份了，时间过得飞快，在上个月结束了两年的亚马逊运营工作。五月中旬参加了初级会计职业资格证的考试，现在还不知到成绩，希望有个好成绩吧。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
